@@ -1,2 +1,3 @@
-# my-boilerplates
-List all my boilerplates
+# Ruby on Rails
+
+[rails-boilerplate](https://github.com/zgid123/rails-boilerplate): boilerplate for Rails using Modular architecture
