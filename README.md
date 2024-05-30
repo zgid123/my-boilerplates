@@ -8,4 +8,4 @@
 
 # Browser extension
 
-[https://github.com/zgid123/react-chromium-extension-boilerplate]: Chromium Extension using Vite + React
+[react-chromium-extension-boilerplate](https://github.com/zgid123/react-chromium-extension-boilerplate): Chromium Extension using Vite + React
