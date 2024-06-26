@@ -9,3 +9,7 @@
 # Browser extension
 
 [react-chromium-extension-boilerplate](https://github.com/zgid123/react-chromium-extension-boilerplate): Chromium Extension using Vite + React
+
+# React Native
+
+[react-native-expo-monorepo-boilerplate](https://github.com/zgid123/react-native-expo-monorepo-boilerplate): React Native monorepo with Expo
