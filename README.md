@@ -13,3 +13,7 @@
 # React Native
 
 [react-native-expo-monorepo-boilerplate](https://github.com/zgid123/react-native-expo-monorepo-boilerplate): React Native monorepo with Expo
+
+# React
+
+[react-vite-chakra-boilerplate](https://github.com/zgid123/react-vite-chakra-boilerplate): React + Vite + Chakra UI
