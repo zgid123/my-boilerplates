@@ -17,3 +17,5 @@
 # React
 
 [react-vite-chakra-boilerplate](https://github.com/zgid123/react-vite-chakra-boilerplate): React + Vite + Chakra UI
+
+[react-vite-shadcn-boilerplate](https://github.com/zgid123/react-vite-shadcn-boilerplate): React + Vite + Shadcn UI
